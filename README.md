@@ -5,7 +5,7 @@ This is my first CSS project created while learning CSS.
 
 ## Current Progress
 - Basic HTML structure is in progress
-- Navigation/content sections in progress/completed
+- Navigation section is completed
 
 ## Technologies
 - HTML5,CSS
